@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MidTermProgram2</string>
+    <string name="id_string">ID</string>
+    <string name="from_name_string">From Name</string>
+    <string name="message_string">Message</string>
+    <string name="comment_string">Comment Link</string>
+    <string name="like_string">Like Link</string>
+</resources>
